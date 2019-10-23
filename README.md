@@ -8,7 +8,7 @@ Implicit free list is a kind of data structure which links the blocks with math.
 
 
 
-![image-20191023092014732](README.assets/image-20191023092014732.png)
+<img src="README.assets/image-20191023092014732.png">
 
 
 

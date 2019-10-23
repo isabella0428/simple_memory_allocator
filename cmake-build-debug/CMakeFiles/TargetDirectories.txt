@@ -1,0 +1,3 @@
+/Users/isabella/Desktop/myMalloc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/isabella/Desktop/myMalloc/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/isabella/Desktop/myMalloc/cmake-build-debug/CMakeFiles/myMalloc.dir
